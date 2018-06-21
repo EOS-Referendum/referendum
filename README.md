@@ -1,1 +1,1 @@
-# Referendum-Smart-Contract
+# Referendum Smart Contract
