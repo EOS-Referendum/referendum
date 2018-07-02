@@ -1,6 +1,6 @@
 #pragma once
 
-#include "common.hpp"
+#include "identity_common.hpp"
 
 namespace identity {
 
